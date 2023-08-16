@@ -1,0 +1,1 @@
+add_library(hellodll SHARED hellolib.c hellolib.h)
